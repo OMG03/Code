@@ -4,7 +4,7 @@
 
 
 **Students**
- - Emiliq Molova [(Folder)](https://github.com/OMG03/Code/tree/master/EmiliqMolova "(Folder)")
+ - Emilia Molova [(Folder)](https://github.com/OMG03/Code/tree/master/EmiliqMolova "(Folder)")
  - Ivan Markov [(Folder)](http://https://github.com/OMG03/Code/tree/master/IvanMarkov "(Folder)")
  - Ivan Rusev [(Folder)](http://https://github.com/OMG03/Code/tree/master/IvanRusev "(Folder)")
  - Nikita Koynov [(Folder)](http://https://github.com/OMG03/Code/tree/master/NikitaKoynov "(Folder)")
