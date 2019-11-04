@@ -1,0 +1,11 @@
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.exe
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.deps.json
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.runtimeconfig.json
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.runtimeconfig.dev.json
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.dll
+C:\Users\nikita\source\repos\LinkedListDemo\bin\Debug\netcoreapp3.0\LinkedListDemo.pdb
+C:\Users\nikita\source\repos\LinkedListDemo\obj\Debug\netcoreapp3.0\LinkedListDemo.csprojAssemblyReference.cache
+C:\Users\nikita\source\repos\LinkedListDemo\obj\Debug\netcoreapp3.0\LinkedListDemo.AssemblyInfoInputs.cache
+C:\Users\nikita\source\repos\LinkedListDemo\obj\Debug\netcoreapp3.0\LinkedListDemo.AssemblyInfo.cs
+C:\Users\nikita\source\repos\LinkedListDemo\obj\Debug\netcoreapp3.0\LinkedListDemo.dll
+C:\Users\nikita\source\repos\LinkedListDemo\obj\Debug\netcoreapp3.0\LinkedListDemo.pdb
